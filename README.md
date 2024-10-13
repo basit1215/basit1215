@@ -1,0 +1,69 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=basit1215" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Basit!+😉;+I'm+Frontend+Developer!;" />
+</h1>
+
+<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **Web and App Development**
+ 
+ 🌱 I’m currently learning **Next JS** & **React Native Expo**
+
+💬 Ask me about **Javascript, React.js, Typescript, Firebase, ES6, CSS3, HTML5, Bootstrap, Tailwind CSS, Material UI**
+
+⚡ Fun fact **Moon is Alone But still Shine**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:hafizabdulbasit225@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="http://www.linkedin.com/in/abdul-basit-794089329" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/basit1215" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,nextjs,typescript,mui,vscode,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,github,figma,html,css" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=basit1215&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=basit1215&show_icons=true&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=basit1215&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+👋" />
+</h1>
+</div>
+
+<br/>
