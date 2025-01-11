@@ -11,9 +11,9 @@
  
  🔭 I’m currently working on **Web and App Development**
  
- 🌱 I’m currently learning **Next JS** & **React Native Expo**
+ 🌱 I’m currently learning **Backend Development** & **React Native Expo**
 
-💬 Ask me about **Javascript, React.js, Typescript, Firebase, ES6, CSS3, HTML5, Bootstrap, Tailwind CSS, Material UI**
+💬 Ask me about **Javascript, React.js, Next.js, Typescript, Firebase, ES6, CSS3, HTML5, Bootstrap, Tailwind CSS, Material UI**
 
 ⚡ Fun fact **Moon is Alone But still Shine**
 
