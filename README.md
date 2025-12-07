@@ -15,7 +15,7 @@
 
 💬 Ask me about **Javascript, React.js, Next.js, Typescript, Firebase, ES6, CSS3, HTML5, Bootstrap, Tailwind CSS, Material UI**
 
-⚡ Fun fact **Moon is Alone But still Shine**
+⚡ Fun fact **Moon is Alone But still Shine** ⚡
 
  </div>
  
