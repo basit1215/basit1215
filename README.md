@@ -9,13 +9,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Web and App Development**
+ 🔭 I’m currently learning on **Web Development**
  
- 🌱 I’m currently learning **Backend Development** 
+ 🌱 Exploring **C#, MySQL, and Backend Basics**
 
-💬 Ask me about **Javascript, React.js, Next.js, Typescript, Firebase, ES6, CSS3, HTML5, Bootstrap, Tailwind CSS, Material UI**
+💬 Ask me about **JavaScript, HTML, CSS, C Programming, Tailwind CSS, React.js**
 
-⚡ Fun fact **Moon is Alone But still Shine** ⚡
+⚡ Fun fact **Moon is Alone But still Shine**
 
  </div>
  
