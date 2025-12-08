@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently learning on **Web Development**
+ 🔭 I’m currently learning **Web Development**
  
  🌱 Exploring **C#, MySQL, and Backend Basics**
 
@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:abdulbasit7926@gmail.com">
+  <a href="mailto:abdulbasit7926@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
  <a href="https://www.linkedin.com/in/abdul-basit-javed-751b2733a/" target="_blank">
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,nextjs,typescript,mui,vscode,tailwind,git" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,github,figma,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,nextjs,typescript,mysql,tailwind,git,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,github,html,css,c" /><br>
 </div>
 
 <br/>
