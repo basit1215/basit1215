@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basit1215&label=Profile%20views&color=0e75b6&style=flat" alt="basit1215" /> </p>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">Aspiring Full-Stack Developer from Pakistan</h3>
 
 <br/>
 
