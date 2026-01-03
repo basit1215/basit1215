@@ -15,7 +15,7 @@
 
 💬 Ask me about **JavaScript, HTML, CSS, C Programming, Tailwind CSS, React.js**
 
-⚡ Fun fact **Moon is Alone But still Shine**
+⚡ Fun fact **Moon is Alone But still Shine** ⚡
 
  </div>
  
